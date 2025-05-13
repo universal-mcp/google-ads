@@ -4,7 +4,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "universal_mcp_google_ads"
+name = "universal-mcp-google-ads"
 version = "0.1.0"
 description = "A Universal MCP Application: universal_mcp_google_ads"
 readme = "README.md"
@@ -40,8 +40,8 @@ dev = [
 universal_mcp_google_ads = "universal_mcp_google_ads:main"
 
 [project.urls]
-Homepage = "" # Add project URL later
-Repository = "" # Add repository URL later
+Homepage = "https://github.com/universal-mcp/google-ads" # Add project URL later
+Repository = "https://github.com/universal-mcp/google-ads" # Add repository URL later
 
 # --- Hatch Configuration ---
 [tool.hatch.version]
